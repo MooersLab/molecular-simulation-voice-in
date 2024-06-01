@@ -1,14 +1,80 @@
+expand AC,Adiabatic Connection
+expand AC,averaged exchange-correlation hole
+expand ACFDT,Adiabatic-connection fluctuation-dissipation theorem
+expand ACFDT,Adiabatic-connection fluctuation-dissipation theorem
+expand ACSFs,Atom-centered symmetry functions
+expand AE,all-electron
+expand AIMD,Ab initio molecular dynamics
+expand AIMD,Artificial intelligence-quantum mechanical method 1
+expand AIMS,Ab initio multiple spawning
+expand AIQM1,Artificial intelligence–quantum mechanical method 1
+expand AL,Active Learning
+expand AMBER,Assisted Model Building with Energy Refinement
 expand aMD,accelerated molecular dynamics
+expand ANM,Anisotropic Network Model
+expand ANN,Artificial neural network
+expand AOs,atomic orbitals
+expand ARD,Automatic relevance determination
+expand BeckeHH,Becke half-half hybrid functional
+expand BFGS,Broyden–Fletcher–Goldfarb–Shanno
+expand BiLSTM,Bidirectional LSTM networks
+expand BMRB,Biological Magnetic Resonance Data Bank
+expand BNN,Bayesian Neural Networks
+expand BO,Born–Oppenheimer
+expand BOMD,Born–Oppenheimer molecular dynamics
+expand BSSE,Basis-set superposition error
+expand CCD,Chemical Component Dictionary
+expand CCSD,Coupled cluster singles and doubles
+expand CDFT,Current density-functional theory
+expand CHARMM,Chemistry at HARvard Molecular Mechanics
+expand CM,Coulomb Matrix
+expand DDS,drug delivery system
+expand DDS,drug delivery system
+expand DFA,Density-functional approximations
+expand DFT,density functional theory
+expand DFT,Density-functional theory
+expand DOS,Density of States
+expand EANN,Embedded atom neural network
+expand ECP,Effective core potential
+expand EHM,Extended Huckel Method
+expand ENM,Elastic Network Model
+expand FBDD,fragment-based drug discovery
+expand FBS,fragment-based screening
+expand FH,Flory-Huggins theory
+expand GPR,Gaussian Process Regression
+expand GROMACS,GROningen MAchine for Chemical Simulations
+expand GROMOS,GROningen MOlecular Simulation
+expand HSQC,heteronuclear single quantum coherence
+expand HTS,high-throughput screening
+expand LAMMPS,Large-scale Atomic/Molecular Massively Parallel Simulator
+expand LBDD,ligand-based drug design
+expand LE,Ligand Efficiency 
+expand LELP,Ligand-efficiency-dependent lipophilicity
 expand MC,Monte Carlo
+expand MC,Monte Carlo
+expand MCSS,multiple copy simultaneous search
 expand MD,molecular dynamics
-expand SA,surface accessbility
+expand MLSD,multiple ligand simultaneous docking
+expand MM,molecular mechanics
+expand MM/GBSA,Molecular mechanics/generalized Born surface area
+expand MMTK,Molecular Mechanics Toolkit
+expand MSCS,multiple solvent crystal structures
+expand NAMD,Nanoscale Molecular Dynamics
+expand PCA,Principal Component Analysis
+expand PDBe,Protein Data Bank in Europe
+expand PDBj,Protein Data Bank Japan
+expand PSO,Particle swarm optimization
+expand QC,quantum chemistry
+expand RBFE,relative binding free energy
+expand RCSB PDB,Research Collaboratory for Structural Bioinformatics Protein Data Bank
+expand RECAP,retrosynthetic combinatorial analysis procedure
+expand RGYR,radius of gyration
 expand RMSD,root mean square deviation
 expand RMSF,root mean square fluctuation
-expand RGYR,radius of gyration
-expand AMBER,Assisted Model Building with Energy Refinement
-expand CHARMM,Chemistry at HARvard Molecular Mechanics
-expand GROMOS,GROningen MOlecular Simulation
-expand NAMD,Nanoscale Molecular Dynamics
-expand GROMACS,GROningen MAchine for Chemical Simulations
-expand LAMMPS,Large-scale Atomic/Molecular Massively Parallel Simulator
-
+expand SA,surface accessbility
+expand SBDD,structure-based drug design
+expand SDFT,spin density-functional theory
+expand SILCS,site identification by ligand competitive saturation
+expand STD,saturation transfer difference
+expand VMD,Visual Molecular Dynamics
+expand wwPDB,Worldwide Protein Data Bank
