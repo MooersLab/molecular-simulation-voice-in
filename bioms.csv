@@ -1,0 +1,14 @@
+expand aMD,accelerated molecular dynamics
+expand MC,Monte Carlo
+expand MD,molecular dynamics
+expand SA,surface accessbility
+expand RMSD,root mean square deviation
+expand RMSF,root mean square fluctuation
+expand RGYR,radius of gyration
+expand AMBER,Assisted Model Building with Energy Refinement
+expand CHARMM,Chemistry at HARvard Molecular Mechanics
+expand GROMOS,GROningen MOlecular Simulation
+expand NAMD,Nanoscale Molecular Dynamics
+expand GROMACS,GROningen MAchine for Chemical Simulations
+expand LAMMPS,Large-scale Atomic/Molecular Massively Parallel Simulator
+
