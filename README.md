@@ -11,7 +11,7 @@ Many spend an entire career in just one of these niches.
 I will develop a separate drug discovery library, including structure-based drug design.
 The latter topic includes many aspects of molecular simulation but combining these two topics would be overwhelming.
 
-This is a library of expansions of acronyms to help with the accurate expansion into the full terms.
+This library contains expansions of acronyms to ensure the accuracy of expansion since one's memory can be imperfect.
 
 ## Update history
 
